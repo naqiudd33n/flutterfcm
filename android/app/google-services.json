@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "56643810768",
+    "project_id": "notify-app-9384a",
+    "storage_bucket": "notify-app-9384a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56643810768:android:c30d2dd4fd8c3e3610f5d5",
+        "android_client_info": {
+          "package_name": "com.dts.flutterfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56643810768-a3bcskisfks04iq9qb4ipt9t10kt554s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG9hYh9JBV9njPjq9pc8KaXvxbb1E_Bg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "56643810768-a3bcskisfks04iq9qb4ipt9t10kt554s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
